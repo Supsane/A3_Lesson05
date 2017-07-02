@@ -1,0 +1,25 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+		classpath 'me.tatarka:gradle-retrolambda:3.3.0'
+		classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+		classpath 'io.realm:realm-gradle-plugin:2.0.2'
+    }
+}
+allprojects {
+    repositories {
+        jcenter()
+    }
+
+	subprojects {
+		afterEvaluate {
+			tasks.findByName('findbugs').dependsOn('assemble')
+
+			def checkTask = tasks.findByName('check')
+			['pmd', 'findbugs', 'checkstyle'].collect { checkTask.dependsOn(it) }
+		}
+	}
+}

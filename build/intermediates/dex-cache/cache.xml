@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8bc81382b8c3129f6aa55fb64deff0d1b2f0a030\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8bc81382b8c3129f6aa55fb64deff0d1b2f0a030\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chashurin Evgeny\.android\build-cache\4507f7011ed8ee9c638a109d2346af28a9029af6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0b7a44e738be9f6c6ee4c6bd99cba67731f48dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chashurin Evgeny\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_8c1994cb5b43c0828b17443b4d2ba73916bafe70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chashurin Evgeny\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_d0435203558887419282843bbeafe4cf501d4baf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b63b3fde0d7619b9d426e7865290e326c7d83a5">
+        <dex dex="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7a39ed9130da88165d42fdda4aaab9aa54591224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08044a9ed56d9938c709a5204a7bf5a3d54aad80">
+        <dex dex="D:\Programming\Projects\Android_Project\Android3\Lessons_5\A3_Lesson05\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7a39ed9130da88165d42fdda4aaab9aa54591224\classes.dex" />
+    </item>
+
+</items>

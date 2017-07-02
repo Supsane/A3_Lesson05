@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+apply plugin: 'me.tatarka.retrolambda'
+apply plugin: 'android-apt'
+apply from: '../quality.gradle'
+apply plugin: 'realm-android'
+
+android {
+	compileSdkVersion 25
+	buildToolsVersion '25.0.3'
+	defaultConfig {
+		applicationId "ru.geekbrains.gviewer"
+		minSdkVersion 15
+		targetSdkVersion 25
+		versionCode 1
+		versionName "1.0"
+	}
+
+	compileOptions {
+		sourceCompatibility 1.8
+		targetCompatibility 1.8
+	}
+}
+
+dependencies {
+	compile 'com.android.support:appcompat-v7:25.3.1'
+	compile 'com.android.support:cardview-v7:25.3.1'
+	compile 'com.android.support:design:25.3.1'
+
+	//Mosby
+	compile 'com.hannesdorfmann.mosby:mvp:2.0.1'
+	compile 'com.hannesdorfmann.mosby:viewstate:2.0.1'
+
+	//rxjava
+	compile 'io.reactivex:rxjava:1.2.0'
+	compile 'io.reactivex:rxandroid:1.2.1'
+
+	//butterknife
+	compile 'com.jakewharton:butterknife:8.4.0'
+	apt 'com.jakewharton:butterknife-compiler:8.4.0'
+
+	//annotations
+	compile 'com.android.support:support-annotations:25.3.1'
+
+	//OkHTTP
+	compile 'com.squareup.okhttp3:okhttp:3.4.1'
+
+	//Gson
+	compile 'com.google.code.gson:gson:2.7'
+
+	//Retrofit
+	compile 'com.squareup.retrofit2:retrofit:2.1.0'
+	compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+	compile 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
+
+	//Picasso
+	compile 'com.squareup.picasso:picasso:2.5.2'
+}

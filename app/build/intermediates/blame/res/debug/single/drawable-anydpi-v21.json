@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_email_24dp.xml",
+        "source": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_24dp.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_bio_24dp.xml",
+        "source": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_bio_24dp.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Chashurin Evgeny\\.android\\build-cache\\dec2bf8143e44270e0e2ef0265579c90735ad46b\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Chashurin Evgeny\\.android\\build-cache\\dec2bf8143e44270e0e2ef0265579c90735ad46b\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_company_24dp.xml",
+        "source": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_company_24dp.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_blog_24dp.xml",
+        "source": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_blog_24dp.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_reload_24dp.xml",
+        "source": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_reload_24dp.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_location_24dp.xml",
+        "source": "D:\\Programming\\Projects\\Android_Project\\Android3\\Lessons_5\\A3_Lesson05\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location_24dp.xml"
+    }
+]
